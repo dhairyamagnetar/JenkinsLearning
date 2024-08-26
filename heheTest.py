@@ -1,1 +1,1 @@
-print("Jai Maa sherawali da")
+print("Jai Maa Sheranwali da, Bol Saache Darbaar ki Jai")
